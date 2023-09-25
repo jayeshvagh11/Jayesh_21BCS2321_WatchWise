@@ -4,6 +4,7 @@ import {
     FaInstagram,
     FaTwitter,
     FaLinkedin,
+    FaHeart,
 } from "react-icons/fa";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
@@ -22,14 +23,9 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                This Movie Recommendation Platform is proudly crafted with <FaHeart /> by the creative minds of Jayesh, Aditya, and Daksh as their entry into the WebWizardry Hackathon. With their passion for movies and their dedication to web development, they've come together to bring you a unique and personalized movie recommendation experience. Explore a world of cinematic delights curated just for you, thanks to the collaborative efforts of these talented individuals. Enjoy your cinematic journey!"
                 </div>
-                <div className="socialIcons">
+                <div className="socialIcons" >
                     <span className="icon">
                         <FaFacebookF />
                     </span>

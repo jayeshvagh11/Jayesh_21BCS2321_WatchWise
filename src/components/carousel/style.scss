@@ -9,6 +9,7 @@
         color: white;
         margin-bottom: 20px;
         font-weight: normal;
+        text-transform: uppercase;
     }
     .arrow {
         font-size: 30px;
@@ -92,6 +93,9 @@
         .carouselItem {
             width: 125px;
             cursor: pointer;
+            transition: all 0.5s ease;
+            padding-top: 37px;
+
             @include md {
                 width: calc(25% - 15px);
             }
@@ -165,6 +169,11 @@
                     opacity: 0.5;
                 }
             }
+        }
+
+        .carouselItem:hover{
+            transform: translateY(-32px);
+            cursor: pointer;
         }
     }
 }
