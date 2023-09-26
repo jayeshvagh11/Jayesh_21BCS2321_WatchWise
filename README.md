@@ -6,7 +6,7 @@
 * Daksh Yadav - 21BCS2200
 
 
-This is a repository for the WatchWise project, which provides online courses for college students. The project is developed using HTML, CSS, JavaScript and React.
+The WatchWise project repository hosts a web app for personalized movie and TV show recommendations, enabling user collaboration on its development. It aims to simplify entertainment choices based on user preferences and viewing history.
 
 ## Table of Contents
 * Description
@@ -17,8 +17,13 @@ This is a repository for the WatchWise project, which provides online courses fo
 * License
 
 ## Description
-QuikLearn is your go-to e-learning platform, revolutionizing the way you acquire knowledge. Explore a diverse range of courses, expertly crafted to empower your personal and professional growth. With engaging content, interactive assessments, and flexible learning options, QuikLearn makes education accessible and enjoyable. Join our community of lifelong learners and embark on a journey of continuous improvement. Upgrade your skills, chase your passions, and achieve your learning goals with QuikLearn today.
+The WatchWise project repository is a web application designed for providing movie, web series, and TV show recommendations. This repository serves as the central hub for the development and maintenance of the WatchWise web app. It contains the source code, documentation, and related files necessary to build and deploy the application.
 
+The primary goal of the WatchWise project is to create a user-friendly platform where users can discover personalized recommendations for movies, web series, and TV shows based on their preferences and viewing history. The repository will house the codebase responsible for collecting and analyzing user data, implementing recommendation algorithms, and creating an intuitive user interface.
+
+Developers and contributors can collaborate on this repository to enhance the functionality, improve recommendation algorithms, and refine the user experience. It may also include datasets, models, and any other resources essential for recommendation generation.
+
+Overall, the WatchWise project repository is dedicated to the development and continuous improvement of a web app aimed at making entertainment choices more convenient and enjoyable for users.
 
 ## Features
 * Movies
