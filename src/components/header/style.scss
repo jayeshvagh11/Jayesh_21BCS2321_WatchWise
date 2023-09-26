@@ -139,6 +139,30 @@
             }
         }
     }
+
+    p{
+        color: white;
+        font-weight: 500;
+        margin: 10px;
+        margin-left: 60px;
+    }
+
+    button{
+        width: 95px;
+        height: 46px;
+        background: var(--gradient);
+        color: white;
+        outline: 0;
+        border: 0;
+        border-radius: 10px ;
+        font-size: 16px;
+        cursor: pointer;
+        @include md {
+            width: 104px;
+            height: 40px;
+            font-size: 16px;
+        }
+    }
 }
 
 @keyframes mobileMenu {
